@@ -5,5 +5,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vivekpenuli&icon=1&color=8)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=vivekpenuli&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
